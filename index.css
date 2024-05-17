@@ -1,0 +1,39 @@
+.a1{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    height:100%;
+    width:100%;
+    text-align: center;
+    color: brown;
+}
+.container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    color:rgb(251, 250, 249);
+    background-image: url("https://w0.peakpx.com/wallpaper/960/362/HD-wallpaper-library-background-beautiful-library-book.jpg");
+    height:400px;
+    width:1400px;
+    border-radius: 15px;
+}
+.a2{
+    color:cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+img{
+    height:200px;
+    width:200px;
+    border-radius: 15px;
+}
+h2{
+    text-align: center;
+    padding-top: 100px;
+}
+.f2{
+    background-color: black;
+}
+@media{(max-width<=786px)
+    
+}
